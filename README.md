@@ -34,3 +34,7 @@ Fichier raw contenant le dataset de test: https://raw.githubusercontent.com/Mask
 
 * Nettoyage, exploration, visualisation des données : [jupyter_notebook](https://github.com/victoria-1989/WLab/blob/main/dataset_cleaned.ipynb).
 * Support de présentation en pdf: [slide_presentation](https://github.com/victoria-1989/WLab/blob/main/PROJET%203%20PRESENTATION.pdf)
+
+## Technologies
+| Python | Machine Learning | VS code/ Google Colab |
+|Airtable|
