@@ -32,7 +32,5 @@ Fichier raw contenant le dataset de test: https://raw.githubusercontent.com/Mask
 
 ## Livrables
 
-* Nettoyage, exploration, visualisation des données : Dictionnaire: [fichier Raw](Dictionnaire - Projet 1.docx](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Dictionnaire%20-%20Projet%201.docx).
-Nettoyage: [jupyter_notebook](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Projet_1.ipynb)
-* Support de présentation en pdf: [slide_presentation](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Projet_Toys__Cie.pdf)
-* Application : ouvrez à partir de l'url suivante : [page_powerBI](https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/Projet_SQL_Toys__Cie1.pbix)
+* Nettoyage, exploration, visualisation des données : [jupyter_notebook](https://github.com/victoria-1989/WLab/blob/main/dataset_cleaned.ipynb).
+* Support de présentation en pdf: [slide_presentation](https://github.com/victoria-1989/WLab/blob/main/PROJET%203%20PRESENTATION.pdf)
